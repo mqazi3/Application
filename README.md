@@ -1,13 +1,14 @@
 Dear Hiring Committee,
 
-I attached my code samples here, to view and download if needed. I attached three samples. One is in Python, while the other two are in Java.
-The one in Python is for a Discord Music Bot, while the ones for Java are for a GUI that displays a loan calculator, and a game that allows someone to run Blackjack.
-
-I attached screenshots of the ones in Java to display their results when running the code, along with Word documents that explain the process of creating the code and the strategies.
+I attached my code samples here, to view and download if needed.
 
 The link to a group-project that I worked on for the RSA-Algorithm is below.
 
 https://github.com/ataneda1/RSA-Algorithm/tree/main
+
+The link to a group-project that I worked on for the game of Clue is below, where I aided the team in planning, designing and testing the game.
+
+https://github.com/kenduck1/clueless/tree/main
 
 I wish to thank everyone for their time and consideration regarding my application.
 
